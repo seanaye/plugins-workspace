@@ -179,8 +179,8 @@ importers:
         version: 2.8.0
     devDependencies:
       '@tauri-apps/cli':
-        specifier: 2.8.0
-        version: 2.8.0
+        specifier: 2.8.1
+        version: 2.8.1
 
   plugins/deep-link/examples/app:
     dependencies:
